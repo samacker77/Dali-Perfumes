@@ -50,7 +50,7 @@ include 'header.php'?>
             </div>
         </div>
         <div class="col-lg-8">
-            <p>Description About Him</p>
+            <p></p>
         </div>
     </div>
     &nbsp
@@ -66,7 +66,7 @@ include 'header.php'?>
             </div>
         </div>
         <div class="col-lg-8">
-            <p>Description About Him</p>
+            <p>POSITIVE THINKING  AND HARD WORKING  NEVER FAILS</p>
         </div>
     </div>
     &nbsp
@@ -82,7 +82,8 @@ include 'header.php'?>
             </div>
         </div>
         <div class="col-lg-8">
-            <p>Description About Him</p>
+            <p>CONFIDENCE AND  ENERGY  IS  A PROPER WAY TO THE PERFECT
+                FORMULA OF BIG SUCCESS</p>
         </div>
     </div>
     &nbsp
@@ -98,7 +99,9 @@ include 'header.php'?>
             </div>
         </div>
         <div class="col-lg-8">
-            <p>Description About Him</p>
+            <p>DIFFRENT THINKING AND NEW  INNOVATIONS WITH ADVANCE
+                PLANNING, THIS IS A PROPER WAY TO GET THE POSITION UP TO THE NEW HEIGHTS OF
+                THE SKY</p>
         </div>
     </div>
     &nbsp
@@ -114,7 +117,8 @@ include 'header.php'?>
             </div>
         </div>
         <div class="col-lg-8">
-            <p>Description About Him</p>
+            <p>A PERFECT MENTALITY AND HEALTHY THOUGHTS ARE ESSENTIAL FOR
+                EVERY SUCCESS</p>
         </div>
     </div>
 

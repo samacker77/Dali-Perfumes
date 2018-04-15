@@ -99,7 +99,7 @@
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="#">Vision And Values</a>
                     <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="#">Distribution Network</a>
+                    <a class="dropdown-item" href="dist.php">Distribution Network</a>
 
                 </div>
             </li>
@@ -130,7 +130,7 @@
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="#test">Email Us</a>
                     <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="#">Distribution Network</a>
+                    <a class="dropdown-item" href="dist.php">Distribution Network</a>
                 </div>
             </li>
 
