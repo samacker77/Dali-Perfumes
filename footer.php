@@ -6,12 +6,14 @@
  * Time: 10:56 PM
  */
 ?>
+
 <style>
     @import url('https://fonts.googleapis.com/css?family=Sanchez|Nixie+One');
     .footer_text
     {
-        background-color: black;
-        font-size: 17px;
+        background-image: url("images/maxresdefault.jpg");
+        font-size: 15px;
+        font-weight: bolder;
         color: #ffffff;
         line-height: 2;
         margin: 0 auto;
@@ -88,7 +90,7 @@
 
         </div>
     </div>
-    <div class="footer_text">
+    <div class="footer_text" id="test">
         <i class="far fa-copyright"></i> <span style="font-family: 'Nixie One'">Copyright 2018 | Dali Perfumery Works</span>
     </div>
 </div>
