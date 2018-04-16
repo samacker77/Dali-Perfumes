@@ -104,7 +104,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/dhoop/wet/6%20HIMALAY%20LOBAN%208-%20MRP.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Himalaya - Loban</span>
                 </a>
             </div>
         </div>
@@ -114,7 +114,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/dhoop/wet/7%20HIMALAY%20SANDAL%208%20MRP.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Himalaya - Sandal</span>
                 </a>
             </div>
         </div>
@@ -122,7 +122,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/dhoop/wet/8%20HIMALAY%20ROSE%208-%20MRP.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Himalaya - Rose</span>
                 </a>
             </div>
         </div>
