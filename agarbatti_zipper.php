@@ -62,7 +62,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/black/1D%20HIGHLIGHT%20%201%20KG%20%20PACK.jpg"  class="category-banner img-responsive" width="300" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Highlight - 1 KG</span>
                 </a>
             </div>
         </div>
@@ -70,7 +70,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/black/1E%20DEO%201.KG%20PACK.jpg"  class="category-banner img-responsive" width="300" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Deo - 1 KG</span>
                 </a>
             </div>
         </div>
@@ -78,7 +78,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/black/1F%20FAVOURITE%201.KG%20PACK.jpg"  class="category-banner img-responsive" width="300" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Favourite - 1 KG</span>
                 </a>
             </div>
         </div>
@@ -91,7 +91,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/black/1H%20NAMASTE%20INDIA%20500%20GM%20PACK.jpg"  class="category-banner img-responsive" width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Namaste India - 500 gms</span>
                 </a>
             </div>
         </div>
@@ -99,7 +99,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/black/1L%20FAVOURITE%20500%20GM%20PACK.jpg"  class="category-banner img-responsive" width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Favourite - 500 gms</span>
                 </a>
             </div>
         </div>
@@ -107,7 +107,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/black/1J%20HATTRICK%20500%20GM%20PACK.jpg"  class="category-banner img-responsive" width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Hattrick - 500 gms</span>
                 </a>
             </div>
         </div>
@@ -120,7 +120,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/black/1K%20DEO%20500%20GM%20PACK.jpg"  class="category-banner img-responsive" width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Deo - 500 gms</span>
                 </a>
             </div>
         </div>
@@ -128,7 +128,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/black/1L%20FAVOURITE%20500%20GM%20PACK.jpg"  class="category-banner img-responsive" width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Favourite - 500 gms</span>
                 </a>
             </div>
         </div>
@@ -136,7 +136,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/black/1P%20CHOCOLATE%20500%20GM%20PACK.jpg"  class="category-banner img-responsive" width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Chocolate - 500gms</span>
                 </a>
             </div>
         </div>
@@ -149,7 +149,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/black/1R%20HIGHLIGHT%20200%20GM%20PACK.jpg"  class="category-banner img-responsive" width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Highlight - 200 gms</span>
                 </a>
             </div>
         </div>
@@ -157,7 +157,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/black/1S%20NAMASTE%20INDIA%20200%20GM%20PACK.jpg"  class="category-banner img-responsive" width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Namaste India - 200 gms</span>
                 </a>
             </div>
         </div>
@@ -165,7 +165,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/black/1T%20GOA%20200%20GM%20PACK.jpg"  class="category-banner img-responsive" width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Goa - 200 gms</span>
                 </a>
             </div>
         </div>
@@ -178,7 +178,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/black/1U%20MAHALABH%20200%20GM%20PACK.jpg"  class="category-banner img-responsive" width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Mahalabh - 200 gms</span>
                 </a>
             </div>
         </div>
@@ -186,7 +186,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/black/1V%20CHOCOLATE%20200%20GM%20PACK.jpg"  class="category-banner img-responsive" width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Chocolate - 200 gms</span>
                 </a>
             </div>
         </div>
@@ -194,7 +194,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/black/2G%20MAHALABH%2080%20GM%20PACK.jpg"  class="category-banner img-responsive" width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Mahalabh - 80 gms</span>
                 </a>
             </div>
         </div>
@@ -207,7 +207,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/black/2J%20HIGHLIGHT%2030%20GM%20PACK.jpg"  class="category-banner img-responsive" width="400" >
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Highlight - 30 gms</span>
                 </a>
             </div>
         </div>
@@ -215,7 +215,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/black/2K%20NAMASTE%20INDIA%2030%20GM%20PACK.jpg"  class="category-banner img-responsive" width="400" >
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Namaste India - 30 gms</span>
                 </a>
             </div>
         </div>
@@ -223,7 +223,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/black/2L%20GOA%2030%20GM%20PACK.jpg"  class="category-banner img-responsive" width="400" >
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Goa - 30 gms</span>
                 </a>
             </div>
         </div>
@@ -236,7 +236,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/black/2M%20MAHALABH%2030%20GM%20PACK.jpg"  class="category-banner img-responsive" width="400" >
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Mahalabh - 30 gms</span>
                 </a>
             </div>
         </div>
@@ -244,7 +244,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/black/2N%20SHUBH%20LABH%2030%20GM%20PACK.jpg"  class="category-banner img-responsive" width="400" >
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Mahalabh - 30 gms</span>
                 </a>
             </div>
         </div>
@@ -252,7 +252,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/black/2O%20BINDAS%2015GM%20PACK.jpg"  class="category-banner img-responsive" width="400" >
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Bindas - 15 gms</span>
                 </a>
             </div>
         </div>
@@ -265,7 +265,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/black/2P%20SHAHI%20GOLD%202%20MRP%20PACK.jpg"  class="category-banner img-responsive" width="600" >
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Shahi Gold</span>
                 </a>
             </div>
         </div>

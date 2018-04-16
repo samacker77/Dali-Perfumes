@@ -63,7 +63,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/box/black/1%20BINDAS%20BOX%20150%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Bindas Box - 150 gms</span>
                 </a>
             </div>
         </div>
@@ -71,7 +71,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/box/black/2%20DHUADHAR%20BOX%20150%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Dhuadhar Box - 150 gms</span>
                 </a>
             </div>
         </div>
@@ -79,7 +79,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/box/black/3%20YOGI%20BOX%20200%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Yogi Box - 200 gms</span>
                 </a>
             </div>
         </div>
@@ -92,7 +92,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/box/black/6%20NAMASTE%20INDIA%20BOX%2090%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Namaste India - 90 gms</span>
                 </a>
             </div>
         </div>
@@ -100,7 +100,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/box/black/10%20YOGI%20BOX%2030%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Yogi Box - 30 gms</span>
                 </a>
             </div>
         </div>
@@ -108,7 +108,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/box/black/11%20NAMASTE%20INDIA%20BOX%2030%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Namaste India - 30 gms</span>
                 </a>
             </div>
         </div>
@@ -121,7 +121,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/box/black/13%20NAMASTE%20INDIA%20BOX12%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Namaste India - 12 gms</span>
                 </a>
             </div>
         </div>
@@ -129,7 +129,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/box/black/14%20YOGI%20BOX%2012%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Yogi Box - 12 gms</span>
                 </a>
             </div>
         </div>
@@ -137,7 +137,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/box/black/15%20BINDAS%20BOX%2012%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Bindas Box - 12 gms</span>
                 </a>
             </div>
         </div>
@@ -150,7 +150,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/box/black/4%20HE%20RAM%20BOX%2060%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="200" height="500">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">He Ram - 65 gms</span>
                 </a>
             </div>
         </div>
@@ -158,7 +158,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/box/black/5%20DHUADHAR%20BOX%2050%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="400" >
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Dhuadhar Box - 50 gms</span>
                 </a>
             </div>
         </div>
@@ -166,7 +166,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/box/black/7%20HE%20RAM%20BOX%2025%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="200" height="500">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">He Ram - 25 gms</span>
                 </a>
             </div>
         </div>

@@ -36,22 +36,24 @@
             font-family: Quicksand;
         }
         .imagebox {
-            background: black;
+            background: white;
             padding: 0px;
             position: relative;
             text-align: center;
             width: 100%;
+            border-radius: 10px;
         }
 
         .imagebox img {
             opacity: 1;
             transition: 0.5s opacity;
+
         }
 
         .imagebox .imagebox-desc {
-            background-color: rgba(0, 0, 0, 0.6);
+            background-color: rgba(255,255,255,0.7);
             bottom: 0px;
-            color: white;
+            color: black;
             font-size: 1.2em;
             left: 0px;
             padding: 10px 15px;
@@ -59,6 +61,7 @@
             transition: 0.5s padding;
             text-align: center;
             width: 100%;
+            border-top-left-radius: 10px;
         }
 
         .imagebox:hover img {
@@ -130,7 +133,7 @@
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="#test">Email Us</a>
                     <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="dist.php">Distribution Network</a>
+                    <a class="dropdown-item" href="dist.ph">Distribution Network</a>
                 </div>
             </li>
 
