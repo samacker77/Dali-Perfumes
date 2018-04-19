@@ -54,7 +54,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/hawan/FRESH%20AND%20NATURAL%20HAWAN%20SAMAGRI.jpg"  class="category-banner img-responsive"  width="400" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Hawan Samagri</span>
                 </a>
             </div>
         </div>
@@ -62,7 +62,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/hawan/YOGI%20HAWAN%20SAMAGRI%20500%20GMS%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Hawan Samagri</span>
                 </a>
             </div>
         </div>

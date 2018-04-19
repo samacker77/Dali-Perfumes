@@ -62,7 +62,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/dhoop/dry/1%20JALWA%20DRY%20DHOOP%208%20STICKS%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Jalwa - 8 Stick</span>
                 </a>
             </div>
         </div>
@@ -70,7 +70,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/dhoop/dry/2%20HIMALAY%20CHANDAN%20DRY%20DHOOP%208%20STICKS%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Chandan - 8 Stick</span>
                 </a>
             </div>
         </div>

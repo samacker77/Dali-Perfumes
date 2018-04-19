@@ -7,6 +7,12 @@
  */
 include 'header.php'?>
 <style>
+
+    @import url('https://fonts.googleapis.com/css?family=Dancing+Script|Satisfy|Sacramento|Courgette|Kaushan+Script|Philosopher');
+    #quote
+    {
+        font-family: Philosopher;
+    }
     .desc_text{
         font-family: "Calibri Light";
     }
@@ -56,7 +62,7 @@ include 'header.php'?>
     &nbsp
 
     <div class="row">
-        <div class="col-lg-4">
+        <div class="col-lg-6 col-lg-offset-6">
             <div class="card" style="width: 18rem;">
                 <img class="card-img-top" src="images/about-us/2%20DAULAT%20RAM%20MIRANI%20CHAIRMAN%20OF%20DALI%20PERFUMERY%20WORKS.jpg" alt="Card image cap">
                 <div class="card-body">
@@ -66,10 +72,13 @@ include 'header.php'?>
                 </div>
             </div>
         </div>
+    </div>&nbsp;
+    <div class="row">
         <div class="col-lg-8">
-            <p>POSITIVE THINKING  AND HARD WORKING  NEVER FAILS</p>
+            <p id="quote">"POSITIVE THINKING  AND HARD WORKING  NEVER FAILS"</p>
         </div>
     </div>
+
     &nbsp
     <div class="row">
         <div class="col-lg-4">
@@ -82,11 +91,12 @@ include 'header.php'?>
                 </div>
             </div>
         </div>
-        <div class="col-lg-8">
-            <p>CONFIDENCE AND  ENERGY  IS  A PROPER WAY TO THE PERFECT
-                FORMULA OF BIG SUCCESS</p>
-        </div>
+    </div>&nbsp
+    <div class="col-lg-8">
+        <p id="quote">"CONFIDENCE AND  ENERGY  IS  A PROPER WAY TO THE PERFECT
+            FORMULA OF BIG SUCCESS"</p>
     </div>
+
     &nbsp
     <div class="row">
         <div class="col-lg-4">
@@ -99,12 +109,13 @@ include 'header.php'?>
                 </div>
             </div>
         </div>
-        <div class="col-lg-8">
-            <p>DIFFRENT THINKING AND NEW  INNOVATIONS WITH ADVANCE
-                PLANNING, THIS IS A PROPER WAY TO GET THE POSITION UP TO THE NEW HEIGHTS OF
-                THE SKY</p>
-        </div>
+    </div>&nbsp
+    <div class="col-lg-8">
+        <p id="quote">"DIFFRENT THINKING AND NEW  INNOVATIONS WITH ADVANCE
+            PLANNING, THIS IS A PROPER WAY TO GET THE POSITION UP TO THE NEW HEIGHTS OF
+            THE SKY."</p>
     </div>
+
     &nbsp
     <div class="row">
         <div class="col-lg-4">
@@ -117,11 +128,12 @@ include 'header.php'?>
                 </div>
             </div>
         </div>
-        <div class="col-lg-8">
-            <p>A PERFECT MENTALITY AND HEALTHY THOUGHTS ARE ESSENTIAL FOR
-                EVERY SUCCESS</p>
-        </div>
+    </div>&nbsp
+    <div class="col-lg-8">
+        <p id="quote">"A PERFECT MENTALITY AND HEALTHY THOUGHTS ARE ESSENTIAL FOR
+            EVERY SUCCESS."</p>
     </div>
+
 
 
 

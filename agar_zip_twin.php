@@ -62,7 +62,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/twin/1%20SANDAL%20140%20GM%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Sandal - 150 gm</span>
                 </a>
             </div>
         </div>
@@ -70,7 +70,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/twin/2%20ROSE%20140%20GM%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Rose - 150 gm</span>
                 </a>
             </div>
         </div>
@@ -80,7 +80,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/twin/3%20LOBAN%20140%20GM%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Loban - 150 gm</span>
                 </a>
             </div>
         </div>
@@ -88,7 +88,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/twin/4%20KESAR%20140%20GM%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Kesar - 150 gm</span>
                 </a>
             </div>
         </div>

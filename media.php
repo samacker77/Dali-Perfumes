@@ -1,6 +1,8 @@
 <?php include "header.php";?>
 
 <!-- Start WOWSlider.com BODY section -->
+&nbsp
+&nbsp
 <div id="wowslider-container1">
     <div class="ws_images"><ul>
             <li><img src="data1/images/7.jpg" alt="7" title="7" id="wows1_0"/></li>

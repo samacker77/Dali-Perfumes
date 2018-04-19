@@ -63,7 +63,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/box/mettalic/2%20HIGHLIGHT%20BOX%20%20100%20GMS%20PACK.jpg"  class="category-banner img-responsive"  width="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Highlight - 100 gm</span>
                 </a>
             </div>
         </div>
@@ -71,7 +71,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/box/mettalic/3%20CELEBRATION%20BOX%20100%20GMS%20PACK.jpg"  class="category-banner img-responsive"  width="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Celebration - 100 gm</span>
                 </a>
             </div>
         </div>
@@ -85,7 +85,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/box/mettalic/1%20HIMALAY%20SANDAL%20BOX%20100%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="200" height="500">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Sandal - 100 gm</span>
                 </a>
             </div>
         </div>
@@ -93,7 +93,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/box/mettalic/4%20HIMALAY%20ROSE%20BOX%20100%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="200" height="500">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Rose - 100 gm</span>
                 </a>
             </div>
         </div>

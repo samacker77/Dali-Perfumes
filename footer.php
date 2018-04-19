@@ -63,8 +63,8 @@
             <hr class="style13">
             <i class="fas fa-at"></i>
             <p style="font-family: 'Nixie One'">
-                daliperfumeryworks@rediffmail.com<br>
-                daliperfumeryworks@gmail.com
+                info@daliperfumery.com<br>
+                daliperfumeryworks@rediffmail.com
 
             </p>
 

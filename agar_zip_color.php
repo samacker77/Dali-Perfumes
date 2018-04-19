@@ -62,7 +62,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/colorful/1M%20MOOD%20FRESH%20500%20GM%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Mood Fresh</span>
                 </a>
             </div>
         </div>
@@ -70,7 +70,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/colorful/1N%20NEW%20GENERATION%20500%20GM%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Generation</span>
                 </a>
             </div>
         </div>
@@ -78,7 +78,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/colorful/1O%20SARVA%20GUN%20500%20GM%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Sarvgun</span>
                 </a>
             </div>
         </div>
@@ -88,7 +88,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/colorful/1Q%20HE%20RAM%20400%20GM%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Hey Ram - 400 gm</span>
                 </a>
             </div>
         </div>
@@ -96,7 +96,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/colorful/1W%20HE%20RAM%20140%20GM%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Hey Ram - 150 gm</span>
                 </a>
             </div>
         </div>
@@ -104,7 +104,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/colorful/2C%20JALWA%20140%20GM%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Jalwa - 150 gm</span>
                 </a>
             </div>
         </div>
@@ -114,7 +114,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/colorful/2D%20MOOD%20FRESH%20140%20GM%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Mood Fresh - 150 gm</span>
                 </a>
             </div>
         </div>
@@ -122,7 +122,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/colorful/2E%20NEW%20GENERATION%20140%20GM%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Generation - 150 gm</span>
                 </a>
             </div>
         </div>
@@ -130,7 +130,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/zipper/colorful/2F%20SARVA%20GUN%20140%20GM%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">z ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Sarvagun - 150 gm</span>
                 </a>
             </div>
         </div>

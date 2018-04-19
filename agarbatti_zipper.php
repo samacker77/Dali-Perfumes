@@ -54,6 +54,7 @@
         </li>
         <li class="page-item"><a class="page-link" href="agar_zip_color.php">Colorful</a></li>
         <li class="page-item"><a class="page-link" href="agar_zip_twin.php">Twin Pack</a></li>
+        <li class="page-item"><a class="page-link" href="agar_rich.php">Rich Collection</a></li>
     </ul>
 </nav>
 <div class="container-fluid">

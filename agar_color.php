@@ -5,6 +5,7 @@
     }
 </script>
 <style>
+    @import url('https://fonts.googleapis.com/css?family=Dancing+Script|Gugi');
     .videoWrapper {
         position: relative;
         padding-bottom: 56.25%; /* 16:9 */
@@ -24,6 +25,9 @@
     .main
     {
         background-color: #007bff;
+    }
+    .imagebox-desc{
+        font-family: Gugi;
     }
     .card-body {
         background-color: rgba(0, 0, 0, 0.6);
@@ -63,7 +67,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/box/colorful/1%20HIMALAY%20ROSE%20BOX%2016%20GMS%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Rose</span>
                 </a>
             </div>
         </div>
@@ -71,7 +75,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/box/colorful/2%20HIMALAY%20SANDAL%20BOX%2016%20GMS%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Sandal</span>
                 </a>
             </div>
         </div>
@@ -79,7 +83,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/box/colorful/3%20JALWA%20BOX%2016%20GMS%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Jalwa</span>
                 </a>
             </div>
         </div>
@@ -92,7 +96,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/box/colorful/4%20HIGHLIGHT%20BOX%2016%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Highlight - 16 gm</span>
                 </a>
             </div>
         </div>
@@ -100,7 +104,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/box/colorful/5%20NAMASTE%20INDIA%20BOX%2016%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Namaste India - 16 gm</span>
                 </a>
             </div>
         </div>
@@ -108,7 +112,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/box/colorful/6%20GOA%20BOX%2016%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Goa - 16 gm</span>
                 </a>
             </div>
         </div>

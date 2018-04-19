@@ -18,11 +18,18 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <script type="text/javascript" src="engine0/jquery.js"></script>
 
+
     <link rel="stylesheet" type="text/css" href="engine1/style.css" />
     <script type="text/javascript" src="engine1/jquery.js"></script>
 
+    <!-- Start WOWSlider.com HEAD section -->
+    <link rel="stylesheet" type="text/css" href="engine2/style.css" />
+    <script type="text/javascript" src="engine2/jquery.js"></script>
+    <!-- End WOWSlider.com HEAD section -->
+
 
     <style>
+        @import url('https://fonts.googleapis.com/css?family=Dancing+Script|Gugi');
         @import url('https://fonts.googleapis.com/css?family=Poiret+One|Quicksand');
         @import url('https://fonts.googleapis.com/css?family=Sanchez');
         @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond');
@@ -62,6 +69,8 @@
             text-align: center;
             width: 100%;
             border-top-left-radius: 10px;
+            font-family: Gugi;
+
         }
 
         .imagebox:hover img {
@@ -95,14 +104,13 @@
         <ul class="navbar-nav mr-auto" style="margin-left: 35px">
             <li class="nav-item dropdown">
                 <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    BRAND
+                    ABOUT US
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" href="about-us.php">About Dali Perfumery Works</a>
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="#">Vision And Values</a>
-                    <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="dist.php">Distribution Network</a>
+
 
                 </div>
             </li>
@@ -124,17 +132,11 @@
             <li class="nav-item">
                 <a class="nav-link" href="media.php">MEDIA</a>
             </li>
-            <li class="nav-item dropdown">
-                <a class="nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    CONTACT US
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="#test">Visit Us</a>
-                    <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="#test">Email Us</a>
-                    <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="dist.ph">Distribution Network</a>
-                </div>
+            <li class="nav-item">
+                <a class="nav-link" href="feedback.php">FEEDBACK</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="dist.php">DISTRIBUTION NETWORK</a>
             </li>
 
 

@@ -23,18 +23,26 @@
 
 </style>
 <!-- Start WOWSlider.com BODY section -->
-<div id="wowslider-container0">
-    <div class="ws_images"><ul>
-            <li><img src="data0/images/carousel1.jpg" alt="carousel1" title="carousel1" id="wows0_0"/></li>
-            <li><a href="#"><img src="data0/images/carousel2.jpg" alt="carousel jquery" title="carousel2" id="wows0_1"/></a></li>
-            <li><img src="data0/images/carousel3.jpg" alt="carousel3" title="carousel3" id="wows0_2"/></li>
-        </ul></div>
-    <div class="ws_bullets"><div>
-            <a href="#" title="carousel1"><span><img src="data0/tooltips/carousel1.jpg" alt="carousel1"/>1</span></a>
-            <a href="#" title="carousel2"><span><img src="data0/tooltips/carousel2.jpg" alt="carousel2"/>2</span></a>
-            <a href="#" title="carousel3"><span><img src="data0/tooltips/carousel3.jpg" alt="carousel3"/>3</span></a>
-        </div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="#">c</a></div>
-    <div class="ws_shadow"></div>
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img class="d-block w-100" src="data0/images/carousel3.jpg" alt="First slide">
+        </div>
+        <div class="carousel-item">
+            <img class="d-block w-100" src="data0/images/carousel2.jpg" alt="Second slide">
+        </div>
+        <div class="carousel-item">
+            <img class="d-block w-100" src="data0/images/carousel1.jpg" alt="Third slide">
+        </div>
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
 </div>
 <section>
     <div class="jumbotron desc_text">

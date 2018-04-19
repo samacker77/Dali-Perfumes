@@ -62,7 +62,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/dhoop/zipper/1%20HIGHLIGHT%20DHOOP%20ZIPPER%2035-%20MRP.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Highlight - 20 sticks</span>
                 </a>
             </div>
         </div>
@@ -70,7 +70,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/dhoop/zipper/2%20SANDAL%20DHOOP%20ZIPPER%2035-%20MRP.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Sandal - 20 sticks</span>
                 </a>
             </div>
         </div>
@@ -80,7 +80,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/dhoop/zipper/3%20LOBAN%20DHOOP%20ZIPPER%2035-%20MRP.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Loban - 20 sticks</span>
                 </a>
             </div>
         </div>
@@ -88,7 +88,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/dhoop/zipper/4%20ROSE%20DHOOP%20ZIPPER%2035-%20MRP.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Rose - 20 sticks</span>
                 </a>
             </div>
         </div>

@@ -63,7 +63,7 @@
             <div class="imagebox">
                 <a href="#hola">
                     <img src="images/agarbatti/box/dali%20gift/DALI'S%20CELEBRATION%20BOX%20220%20GMS%20GIFT%20PACK.jpg"  class="category-banner img-responsive" width="300">
-                    <span class="imagebox-desc">Lorem ipsum dolor sit amet!</span>
+                    <span class="imagebox-desc">Dali's Gift Pack</span>
                 </a>
             </div>
         </div>
