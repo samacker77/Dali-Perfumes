@@ -141,19 +141,19 @@
 
 
         </ul>
-        <a href="https://www.facebook.com/daliperfumeryworks" target="_blank"><i class="fa-2x fab fa-facebook" style="color: #3b5998;"></i></a>
+        <a href="https://www.facebook.com/daliperfumeryworks" target="_blank"><i class="fa-2x fab fa-facebook" style="color:  yellow;"></i></a>
         &nbsp
         &nbsp
         &nbsp
-        <a href="https://www.twitter.com/daliperfumeryworks" target="_blank"><i class="fa-2x fab fa-twitter" style="color: #1da1f2;"></i></a>
+        <a href="https://www.twitter.com/daliperfumeryworks" target="_blank"><i class="fa-2x fab fa-twitter" style="color:  yellow;"></i></a>
         &nbsp
         &nbsp
         &nbsp
-        <a href="https://www.youtube.com/channel/UCvfua-Pl-u5u5lzQtCFNLbQ" target="_blank"><i class="fa-2x fab fa-youtube" style="color: #ff0000"></i></a>
+        <a href="https://www.youtube.com/channel/UCvfua-Pl-u5u5lzQtCFNLbQ" target="_blank"><i class="fa-2x fab fa-youtube" style="color:  yellow;"></i></a>
         &nbsp
         &nbsp
         &nbsp
-        <a href="https://www.instagram.com/daliperfumeryworks/" target="_blank"><i class="fa-2x fab fa-instagram" style="color: #c13584"></i></a>
+        <a href="https://www.instagram.com/daliperfumeryworks/" target="_blank"><i class="fa-2x fab fa-instagram" style="color:  yellow;"></i></a>
     </div>
 </nav>
 
