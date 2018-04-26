@@ -9,6 +9,7 @@
 
 <style>
     @import url('https://fonts.googleapis.com/css?family=Sanchez|Nixie+One');
+    @import url('https://fonts.googleapis.com/css?family=Arapey|Nixie+One');
     .footer_text
     {
         background-image: url("images/maxresdefault.jpg");
@@ -29,7 +30,7 @@
     }
     .lead
     {
-    @import url('https://fonts.googleapis.com/css?family=Arapey|Nixie+One');
+    
         font-family: Nixie One;
     }
 </style>
@@ -94,4 +95,22 @@
         <i class="far fa-copyright"></i> <span style="font-family: 'Nixie One'">Copyright 2018 | Dali Perfumery Works</span>
     </div>
 </div>
+<script src="js/jquery.js"></script>
+    <script src="js/popper.js"></script>
+    <script src="js/fontawesome-all.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/fontawesome-all.min.css">
+    <link rel="stylesheet" type="text/css" href="css/header.css">
+    <link rel="stylesheet" type="text/css" href="engine0/style.css" />
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script type="text/javascript" src="engine0/jquery.js"></script>
+
+
+    <link rel="stylesheet" type="text/css" href="engine1/style.css" />
+    <script type="text/javascript" src="engine1/jquery.js"></script>
+
+    <!-- Start WOWSlider.com HEAD section -->
+    <link rel="stylesheet" type="text/css" href="engine2/style.css" />
+    <script type="text/javascript" src="engine2/jquery.js"></script>
 </html>
