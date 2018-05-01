@@ -121,21 +121,22 @@
 
 </style>
 <div class="container">
-    <form id="contact" action="" method="post">
+    <form id="contact" action="" method="post" action="send_form_email.php">
         <h3>Quick Contact</h3>
         <h4>Contact us today, and get reply with in 24 hours!</h4>
         <fieldset>
-            <input placeholder="Your name" type="text" tabindex="1" required autofocus>
+            <input placeholder="Your name" name="first_name" type="text" tabindex="1" required autofocus>
         </fieldset>
         <fieldset>
-            <input placeholder="Your Email Address" type="email" tabindex="2" required>
+            <input placeholder="Your Email Address" name="email" type="email" tabindex="2" required>
         </fieldset>
 
         <fieldset>
-            <textarea placeholder="Type your Message Here...." tabindex="5" required></textarea>
+            <textarea placeholder="Type your Message Here...." tabindex="5" name="comments" required></textarea>
         </fieldset>
         <fieldset>
-            <button name="submit" type="submit" id="contact-submit" data-submit="...Sending" >Submit</button>
+            <a href="mailto:info@daliperfumery.com?Subject=Query%20From%20Website" target="_top">Send Mail</a>
+            <!--<button name="submit" type="submit" id="contact-submit" data-submit="...Sending" mail >Submit</button>-->
         </fieldset>
     </form>
 

@@ -55,8 +55,10 @@ include 'header.php'?>
                 </div>
             </div>
         </div>
+    </div>&nbsp
+    <div class="row">
         <div class="col-lg-8">
-            <p></p>
+            <p id="quote">"HONESTY AND TRUTHNESS IS THE NECESSITY FOR EVERY SUCCESSFUL BUSINESS"</p>
         </div>
     </div>
     &nbsp

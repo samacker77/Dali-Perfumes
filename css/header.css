@@ -51,18 +51,18 @@
 .navbar .navbar-nav .nav-item.show .nav-link,
 .navbar .navbar-nav .nav-item.show .nav-link:hover,
 .navbar .navbar-nav .nav-item.show .nav-link:focus {
-    color: #e6d746;
+    color: white;
     background-color: #000000;
 }
 .navbar .navbar-toggle {
-    border-color: #000000;
+    border-color: white;
 }
 .navbar .navbar-toggle:hover,
 .navbar .navbar-toggle:focus {
-    background-color: #000000;
+    background-color: white;
 }
 .navbar .navbar-toggle .navbar-toggler-icon {
-    color: #f0f4f8;
+    color: yellow;
 }
 .navbar .navbar-collapse,
 .navbar .navbar-form {

@@ -9,7 +9,13 @@
 
 <style>
     @import url('https://fonts.googleapis.com/css?family=Sanchez|Nixie+One');
-    @import url('https://fonts.googleapis.com/css?family=Arapey|Nixie+One');
+    @import url('https://fonts.googleapis.com/css?family=Arapey|Nixie+One|Roboto-Slab');
+    @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond');
+    @import url('https://fonts.googleapis.com/css?family=Dancing+Script|Gugi');
+    @import url('https://fonts.googleapis.com/css?family=Poiret+One|Quicksand');
+    @import url('https://fonts.googleapis.com/css?family=Sanchez');
+    @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond');
+    @import url('https://fonts.googleapis.com/css?family=Gugi|Julius+Sans+One|Nixie+One|Cinzel+Decorative');
     .footer_text
     {
         background-image: url("images/maxresdefault.jpg");
@@ -102,15 +108,10 @@
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/fontawesome-all.min.css">
     <link rel="stylesheet" type="text/css" href="css/header.css">
-    <link rel="stylesheet" type="text/css" href="engine0/style.css" />
     <link rel="stylesheet" type="text/css" href="css/style.css">
-    <script type="text/javascript" src="engine0/jquery.js"></script>
+    <script src="js/jquery.js"></script>
+    <script src="js/popper.js"></script>
+    <script src="js/fontawesome-all.min.js"></script>
 
 
-    <link rel="stylesheet" type="text/css" href="engine1/style.css" />
-    <script type="text/javascript" src="engine1/jquery.js"></script>
-
-    <!-- Start WOWSlider.com HEAD section -->
-    <link rel="stylesheet" type="text/css" href="engine2/style.css" />
-    <script type="text/javascript" src="engine2/jquery.js"></script>
 </html>

@@ -32,7 +32,7 @@
     .card-body {
         background-color: rgba(0, 0, 0, 0.6);
         bottom: 0px;
-        color: white;
+        color: black;
         font-size: 1.2em;
         left: 0px;
         padding: 10px 15px;
@@ -43,7 +43,7 @@
     }
     .card-body:hover card-text
     {
-        padding-bottom: 10%;
+        padding-bottom: 5%;
     }
 </style>
 <div class="container-fluid main">
