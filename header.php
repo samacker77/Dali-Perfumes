@@ -8,13 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="Samar Srivastava">
     <link rel="shortcut icon" type="image/png" href="images/favicon.png"/>
-    <script src="js/jquery.js"></script>
-    <script src="js/popper.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="css/fontawesome-all.min.css">
-    <link rel="stylesheet" type="text/css" href="css/header.css">
-    <link rel="stylesheet" type="text/css" href="css/style.css">
 
     <style>
         #navbarDropdown, .nav-item {
@@ -76,7 +70,7 @@
         /*div.container {
             padding: 10px;
         }*/
-        a{color: white;}
+        
 
 </style>
 </head>
