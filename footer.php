@@ -107,10 +107,9 @@
     <script src="js/bootstrap.min.js"></script>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/fontawesome-all.min.css">
-    <link rel="stylesheet" type="text/css" href="css/header.css">
+    <!--<link rel="stylesheet" type="text/css" href="css/header.css">-->
     <link rel="stylesheet" type="text/css" href="css/style.css">
-    <script src="js/jquery.js"></script>
-    <script src="js/popper.js"></script>
+    
     <script src="js/fontawesome-all.min.js"></script>
 
 

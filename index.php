@@ -77,7 +77,6 @@
     </div>
 </section>
 
-<script type="text/javascript" src="engine0/wowslider.js"></script>
-<script type="text/javascript" src="engine0/script.js"></script>
+
 <?php include 'footer.php'?>
 
