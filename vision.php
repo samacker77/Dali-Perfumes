@@ -10,13 +10,13 @@
     }
 </style>
 <div class="container">
-    <h1 class="about-us">
+    <h1 class="about-us" style="font-weight: bold;">
         Vision
     </h1>
     <hr class="style-seven">
 </div>
 <div class="container">
-    <div class="row">
+    <div class="row" style="font-weight: bold;">
         <div class="col-lg-offset-3">
             <ul>
                 <li>TO BECOME A NO.1 AGARBATTI MANUFACTURING COMPANY.</li>
@@ -29,13 +29,13 @@
 </div>
 &nbsp
     <div class="container">
-        <h1 class="about-us">
+        <h1 class="about-us" style="font-weight: bold;">
             Values
         </h1>
         <hr class="style-seven">
     </div>
     <div class="container">
-        <div class="row">
+        <div class="row" style="font-weight: bold;">
             <div class="col-lg-offset-3">
                 <ul>
                     <li>CONSUMER SATISFACTION.</li>
