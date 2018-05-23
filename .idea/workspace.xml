@@ -4,103 +4,18 @@
     <list default="true" id="218df526-4ac3-434a-bbe0-d2e9b2c624d2" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/about-us.php" afterPath="$PROJECT_DIR$/about-us.php" />
-      <change beforePath="$PROJECT_DIR$/css/header.css" afterPath="$PROJECT_DIR$/css/header.css" />
-      <change beforePath="$PROJECT_DIR$/data0/images/carousel1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data0/images/carousel2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data0/images/carousel3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data0/tooltips/carousel1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data0/tooltips/carousel2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data0/tooltips/carousel3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/images/10.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/images/11.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/images/12.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/images/14.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/images/15.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/images/16.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/images/17.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/images/18.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/images/19.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/images/20.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/images/21.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/images/22.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/images/23.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/images/24.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/images/26.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/images/27.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/images/28.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/images/29.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/images/30.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/images/7.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/images/8.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/images/9.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/tooltips/10.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/tooltips/11.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/tooltips/12.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/tooltips/14.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/tooltips/15.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/tooltips/16.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/tooltips/17.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/tooltips/18.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/tooltips/19.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/tooltips/20.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/tooltips/21.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/tooltips/22.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/tooltips/23.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/tooltips/24.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/tooltips/26.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/tooltips/27.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/tooltips/28.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/tooltips/29.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/tooltips/30.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/tooltips/7.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/tooltips/8.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data1/tooltips/9.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/engine0/ws-ctrl-bootstrap.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/engine0/ws-ctrl-bootstrap.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/engine0/ws-ctrl-bootstrap.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/engine0/ws-ctrl-bootstrap.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/engine1/bullet.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/engine1/jquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/engine1/next_photo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/engine1/pause.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/engine1/play.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/engine1/prev_photo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/engine1/script.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/engine1/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/engine1/style.mod.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/engine1/triangle.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/engine1/wowslider.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/engine1/wowslider.mod.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/feedback.php" afterPath="$PROJECT_DIR$/feedback.php" />
-      <change beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
-      <change beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
-      <change beforePath="$PROJECT_DIR$/images/carousel/carousel1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/carousel/carousel2.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/carousel/carousel3.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/media/10.jpg" afterPath="$PROJECT_DIR$/images/media/10.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/media/11.jpg" afterPath="$PROJECT_DIR$/images/media/11.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/media/12.jpg" afterPath="$PROJECT_DIR$/images/media/12.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/media/14.jpg" afterPath="$PROJECT_DIR$/images/media/14.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/media/15.jpg" afterPath="$PROJECT_DIR$/images/media/15.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/media/16.jpg" afterPath="$PROJECT_DIR$/images/media/16.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/media/17.jpg" afterPath="$PROJECT_DIR$/images/media/17.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/media/18.jpg" afterPath="$PROJECT_DIR$/images/media/18.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/media/19.jpg" afterPath="$PROJECT_DIR$/images/media/19.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/media/20.jpg" afterPath="$PROJECT_DIR$/images/media/20.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/media/21.jpg" afterPath="$PROJECT_DIR$/images/media/21.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/media/22.jpg" afterPath="$PROJECT_DIR$/images/media/22.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/media/23.jpg" afterPath="$PROJECT_DIR$/images/media/23.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/media/24.jpg" afterPath="$PROJECT_DIR$/images/media/24.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/media/26.jpg" afterPath="$PROJECT_DIR$/images/media/26.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/media/27.jpg" afterPath="$PROJECT_DIR$/images/media/27.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/media/28.jpg" afterPath="$PROJECT_DIR$/images/media/28.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/media/29.jpg" afterPath="$PROJECT_DIR$/images/media/29.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/media/30.jpg" afterPath="$PROJECT_DIR$/images/media/30.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/media/7.jpg" afterPath="$PROJECT_DIR$/images/media/7.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/media/8.jpg" afterPath="$PROJECT_DIR$/images/media/8.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/media/9.jpg" afterPath="$PROJECT_DIR$/images/media/9.jpg" />
+      <change beforePath="$PROJECT_DIR$/achievements.php" afterPath="$PROJECT_DIR$/achievements.php" />
+      <change beforePath="$PROJECT_DIR$/images/about-us/3 SHANKAR MIRANI WISE CHAIRMAN AND MARKETING DIRECTOR.JPG" afterPath="$PROJECT_DIR$/images/about-us/3 SHANKAR MIRANI WISE CHAIRMAN AND MARKETING DIRECTOR.JPG" />
+      <change beforePath="$PROJECT_DIR$/images/about-us/4 ROHIT MIRANI DIRECTOR AND CHAMICAL ENG...JPG" afterPath="$PROJECT_DIR$/images/about-us/4 ROHIT MIRANI DIRECTOR AND CHAMICAL ENG...JPG" />
+      <change beforePath="$PROJECT_DIR$/images/about-us/5 PRATEEK MIRANI  MANAGING DIRECTOR.jpg" afterPath="$PROJECT_DIR$/images/about-us/5 PRATEEK MIRANI  MANAGING DIRECTOR.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/about-us/6 SHANKAR MIRANI WISE CHAIRMAN AND MARKETING DIRECTOR.jpg" afterPath="$PROJECT_DIR$/images/about-us/6 SHANKAR MIRANI WISE CHAIRMAN AND MARKETING DIRECTOR.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/carousel/1.jpg" afterPath="$PROJECT_DIR$/images/carousel/1.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/carousel/2.jpg" afterPath="$PROJECT_DIR$/images/carousel/2.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/carousel/3.jpg" afterPath="$PROJECT_DIR$/images/carousel/3.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/carousel/4.jpg" afterPath="$PROJECT_DIR$/images/carousel/4.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/carousel/5.jpg" afterPath="$PROJECT_DIR$/images/carousel/5.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/carousel/6.jpg" afterPath="$PROJECT_DIR$/images/carousel/6.jpg" />
       <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change beforePath="$PROJECT_DIR$/media.php" afterPath="$PROJECT_DIR$/media.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -111,24 +26,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="28" column="85" lean-forward="true" selection-start-line="28" selection-start-column="85" selection-end-line="28" selection-end-column="85" />
+            <state relative-caret-position="2132">
+              <caret line="82" column="4" lean-forward="false" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/header.php">
+      <file leaf-file-name="about-us.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about-us.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="82" column="123" lean-forward="false" selection-start-line="82" selection-start-column="123" selection-end-line="82" selection-end-column="123" />
-              <folding>
-                <element signature="n#style#0;n#span#0;n#button#0;n#nav#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="26">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="agar_color.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/agar_color.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -143,33 +66,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="feedback.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feedback.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="137" column="74" lean-forward="false" selection-start-line="137" selection-start-column="74" selection-end-line="137" selection-end-column="74" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
+            <state relative-caret-position="2834">
               <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#p#1;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vision.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vision.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="44" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -178,8 +79,18 @@
       <file leaf-file-name="achievements.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/achievements.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="579">
-              <caret line="46" column="91" lean-forward="false" selection-start-line="46" selection-start-column="91" selection-end-line="46" selection-end-column="91" />
+            <state relative-caret-position="208">
+              <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vision.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vision.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1144">
+              <caret line="44" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -195,11 +106,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/header.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1560">
-              <caret line="60" column="30" lean-forward="true" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
+              <caret line="60" column="30" lean-forward="false" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -208,8 +119,8 @@
       <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="5" column="75833" lean-forward="true" selection-start-line="5" selection-start-column="75833" selection-end-line="5" selection-end-column="75833" />
+            <state relative-caret-position="2080">
+              <caret line="5" column="75833" lean-forward="false" selection-start-line="5" selection-start-column="75833" selection-end-line="5" selection-end-column="75833" />
               <folding>
                 <element signature="e#75411#75660#2" expanded="true" />
               </folding>
@@ -243,6 +154,7 @@
       <find>navbar-togg</find>
       <find>toggler</find>
       <find>nav</find>
+      <find>Quicksand</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -262,7 +174,6 @@
         <option value="$PROJECT_DIR$/agarbatti_zipper.php" />
         <option value="$PROJECT_DIR$/agar_rich.php" />
         <option value="$PROJECT_DIR$/feedback/index.php" />
-        <option value="$PROJECT_DIR$/agar_color.php" />
         <option value="$PROJECT_DIR$/agar_gift.php" />
         <option value="$PROJECT_DIR$/agar_metal.php" />
         <option value="$PROJECT_DIR$/agar_zip_color.php" />
@@ -270,17 +181,18 @@
         <option value="$PROJECT_DIR$/dhoopbatti.php" />
         <option value="$PROJECT_DIR$/dhoop_zip.php" />
         <option value="$PROJECT_DIR$/hawan.php" />
-        <option value="$PROJECT_DIR$/about-us.php" />
         <option value="$PROJECT_DIR$/vision.php" />
-        <option value="$PROJECT_DIR$/achievements.php" />
         <option value="$PROJECT_DIR$/send_form_email.php" />
         <option value="$PROJECT_DIR$/feedback.php" />
         <option value="$PROJECT_DIR$/media.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/css/header.css" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/achievements.php" />
+        <option value="$PROJECT_DIR$/about-us.php" />
+        <option value="$PROJECT_DIR$/agar_color.php" />
       </list>
     </option>
   </component>
@@ -338,6 +250,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -374,11 +287,13 @@
       <workItem from="1524512972785" duration="692000" />
       <workItem from="1524634244321" duration="756000" />
       <workItem from="1525185803040" duration="10762000" />
+      <workItem from="1527054572482" duration="1560000" />
+      <workItem from="1527056289315" duration="951000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90612000" />
+    <option name="totallyTimeSpent" value="93123000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -389,7 +304,6 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -401,6 +315,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -596,13 +511,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/feedback/index.php" />
-    <entry file="file://$PROJECT_DIR$/agar_color.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="114" column="59" lean-forward="false" selection-start-line="114" selection-start-column="59" selection-end-line="114" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/agar_gift.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="534">
@@ -659,27 +567,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about-us.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12">
-          <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/fontawesome-all.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
           <caret line="4" column="27559" lean-forward="false" selection-start-line="4" selection-start-column="27552" selection-end-line="4" selection-end-column="27559" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/achievements.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="579">
-          <caret line="46" column="91" lean-forward="false" selection-start-line="46" selection-start-column="91" selection-end-line="46" selection-end-column="91" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -687,22 +578,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/feedback.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
+        <state relative-caret-position="3562">
           <caret line="137" column="74" lean-forward="false" selection-start-line="137" selection-start-column="74" selection-end-line="137" selection-end-column="74" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="28" column="85" lean-forward="true" selection-start-line="28" selection-start-column="85" selection-end-line="28" selection-end-column="85" />
+        <state relative-caret-position="338">
+          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2132">
+          <caret line="82" column="4" lean-forward="false" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -715,41 +612,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+    <entry file="file://$PROJECT_DIR$/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="5" column="75833" lean-forward="true" selection-start-line="5" selection-start-column="75833" selection-end-line="5" selection-end-column="75833" />
-          <folding>
-            <element signature="e#75411#75660#2" expanded="true" />
-          </folding>
+        <state relative-caret-position="2834">
+          <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/achievements.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vision.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
+        <state relative-caret-position="1144">
           <caret line="44" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="29" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#p#1;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="82" column="123" lean-forward="false" selection-start-line="82" selection-start-column="123" selection-end-line="82" selection-end-column="123" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#button#0;n#nav#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -764,7 +647,33 @@
     <entry file="file://$PROJECT_DIR$/css/header.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1560">
-          <caret line="60" column="30" lean-forward="true" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
+          <caret line="60" column="30" lean-forward="false" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2080">
+          <caret line="5" column="75833" lean-forward="false" selection-start-line="5" selection-start-column="75833" selection-end-line="5" selection-end-column="75833" />
+          <folding>
+            <element signature="e#75411#75660#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about-us.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agar_color.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>

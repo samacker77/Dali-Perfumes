@@ -6,6 +6,7 @@
 
         li{
             font-family: "Cinzel";
+            font-weight: bolder;
 
         }
     </style>
