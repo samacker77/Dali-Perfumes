@@ -80,19 +80,19 @@
         <div class="col-lg-3">
             <p class="lead">Social Media</p>
             <hr class="style13">
-            <a href="https://www.facebook.com/daliperfumeryworks" target="_blank"><i class="fa-2x fab fa-facebook" style="color: yellow;"></i></a>
+            <a href="https://www.facebook.com/daliperfumeryworks" target="_blank"><i class="fa-2x fab fa-facebook" style="color: #ffcc33;"></i></a>
             &nbsp
             &nbsp
             &nbsp
-            <a href="https://www.twitter.com/daliperfumeryworks" target="_blank"><i class="fa-2x fab fa-twitter" style="color:  yellow;"></i></a>
+            <a href="https://www.twitter.com/daliperfumeryworks" target="_blank"><i class="fa-2x fab fa-twitter" style="color:  #ffcc33;"></i></a>
             &nbsp
             &nbsp
             &nbsp
-            <a href="https://www.youtube.com/channel/UCvfua-Pl-u5u5lzQtCFNLbQ" target="_blank"><i class="fa-2x fab fa-youtube" style="color:  yellow;"></i></a>
+            <a href="https://www.youtube.com/channel/UCvfua-Pl-u5u5lzQtCFNLbQ" target="_blank"><i class="fa-2x fab fa-youtube" style="color:  #ffcc33;"></i></a>
             &nbsp
             &nbsp
             &nbsp
-            <a href="https://www.instagram.com/daliperfumeryworks/" target="_blank"><i class="fa-2x fab fa-instagram" style="color:  yellow;"></i></a>
+            <a href="https://www.instagram.com/daliperfumeryworks/" target="_blank"><i class="fa-2x fab fa-instagram" style="color:  #ffcc33;"></i></a>
 
 
         </div>
