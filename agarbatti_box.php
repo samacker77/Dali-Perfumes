@@ -52,7 +52,7 @@
         <li class="page-item disabled">
             <a class="page-link" href="#" tabindex="-1">Black</a>
         </li>
-        <li class="page-item"><a class="page-link" href="agar_color.php">Colorful</a></li>
+        <li class="page-item"><a class="page-link" href="agar_color.php">Colorful / White</a></li>
         <li class="page-item"><a class="page-link" href="agar_gift.php">Gift Pack</a></li>
         <li class="page-item"><a class="page-link" href="agar_metal.php">Mettalic</a></li>
     </ul>

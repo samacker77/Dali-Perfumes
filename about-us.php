@@ -29,11 +29,11 @@ include 'header.php'?>
 
     <section >
 
-        <div class=" jumbotron desc_text" style="font-weight: bold; text-align: justify;">
-            <p>The company was started by Mr. Devidas Mirani(FOUNDER OF COMPANY) in 1986. He started it from his own house, in which he was helped by all the members of the family, from making of goods to its marketing and supply, all the work was done by the present chairman and vice chairman.The company has been shifted from the house to the rented property with the enthusiasm and  honesty of the company, with 4 employees they started taking the company forward.
-                Thus the 4 rented properties were changed by the founder of the company to 4000 sq. Feet own property purchased by the company in 1998. After that, the company's goods started coming from  Madhya Pradesh, Uttar Pradesh, and Chhattisgarh also.
-                Today, the company is working in a spacious place of 1 acre in better facilities and has expanded its brands to 22 states of the country. Also, the company has expanded into Nepal and Sri Lanka.
-                All this could have been possible only by the blessings of our elders And a new generation which came into the company, which is today's DIRECTOR AND MANAGING DIRECTOR ROHIT MIRANI AND PRATEEK MIRANI who expanded the product with new innovative ideas. Our Dynamic thinking and experience of both of these got a new dimension  from  the company.
+        <div class="jumbotron desc_text" style="font-weight: bold; text-align: justify; font-size: 18px;">
+            <p>The company was started by Mr. Devidas Mirani(FOUNDER OF COMPANY) in 1986. He started it from his own house, in which he was helped by all the members of the family, from making of goods to its marketing and supply, all the work was done by the present chairman and vice chairman.The company has been shifted from the house to the rented property with the enthusiasm and  honesty of the company, with 4 employees they started taking the company forward.</p>
+                <p>Thus the 4 rented properties were changed by the founder of the company to 4000 sq. Feet own property purchased by the company in 1998. After that, the company's goods started coming from  Madhya Pradesh, Uttar Pradesh, and Chhattisgarh also.</p>
+                <p>Today, the company is working in a spacious place of 1 acre in better facilities and has expanded its brands to 22 states of the country. Also, the company has expanded into Nepal and Sri Lanka.</p>
+                <p>All this could have been possible only by the blessings of our elders And a new generation which came into the company, which is today's DIRECTOR AND MANAGING DIRECTOR ROHIT MIRANI AND PRATEEK MIRANI who expanded the product with new innovative ideas. Our Dynamic thinking and experience of both of these got a new dimension  from  the company.
             </p>
         </div>
     </section>
