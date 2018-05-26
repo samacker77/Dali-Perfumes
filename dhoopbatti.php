@@ -56,29 +56,29 @@
         <li class="page-item"><a class="page-link" href="dhoop_zip.php">Zipper Packs</a></li>
     </ul>
 </nav>
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-lg-6">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/dhoop/dry/1%20JALWA%20DRY%20DHOOP%208%20STICKS%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Jalwa - 8 Stick</span>
-                </a>
-            </div>
-        </div>
-        <div class="col-lg-6">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/dhoop/dry/2%20HIMALAY%20CHANDAN%20DRY%20DHOOP%208%20STICKS%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Chandan - 8 Stick</span>
-                </a>
-            </div>
-        </div>
-
+<div class="w3-row-padding">
+    <div class="w3-container w3-third">
+        <img src="images/dhoop/dry/1%20JALWA%20DRY%20DHOOP%208%20STICKS%20PACK%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity"><h2>Jalwa Dry Dhoop Sticks x 8</h2>
     </div>
-
-
+    <div class="w3-container w3-third">
+        <img src="images/dhoop/dry/2%20HIMALAY%20CHANDAN%20DRY%20DHOOP%208%20STICKS%20PACK%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity "><h2>Himalay Chandan Dry Dhoop Sticks x 8</h2>
+    </div>
 </div>
+<div id="modal01" class="w3-modal" onclick="this.style.display='none'">
+    <span class="w3-button w3-hover-red w3-xlarge w3-display-topright">&times;</span>
+    <div class="w3-modal-content w3-animate-zoom">
+        <img id="img01" style="width:100%">
+    </div>
+</div>
+
+<script>
+    function onClick(element) {
+        document.getElementById("img01").src = element.src;
+        document.getElementById("modal01").style.display = "block";
+    }
+</script>
 
 
 &nbsp

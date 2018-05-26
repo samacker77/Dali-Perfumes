@@ -57,17 +57,28 @@
         <li class="page-item"><a class="page-link" href="agar_metal.php">Mettalic</a></li>
     </ul>
 </nav>
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-lg-12 justify-content-center">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/box/dali%20gift/DALI'S%20CELEBRATION%20BOX%20220%20GMS%20GIFT%20PACK.jpg"  class="category-banner img-responsive" width="300">
-                    <span class="imagebox-desc">Dali's Gift Pack</span>
-                </a>
-            </div>
-        </div>
+<div class="w3-row-padding">
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/box/dali%20gift/DALI'S%20CELEBRATION%20BOX%20220%20GMS%20GIFT%20PACK.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity">
+        <h2>Dali's Celebration Box - 220gms</h2>
+
+    </div>
+
 </div>
+<div id="modal01" class="w3-modal" onclick="this.style.display='none'">
+    <span class="w3-button w3-hover-red w3-xlarge w3-display-topright">&times;</span>
+    <div class="w3-modal-content w3-animate-zoom">
+        <img id="img01" style="width:100%">
+    </div>
+</div>
+
+<script>
+    function onClick(element) {
+        document.getElementById("img01").src = element.src;
+        document.getElementById("modal01").style.display = "block";
+    }
+</script>
 
 
 &nbsp

@@ -48,29 +48,31 @@
 </div>
 &nbsp
 
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-lg-6">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/hawan/FRESH%20AND%20NATURAL%20HAWAN%20SAMAGRI.jpg"  class="category-banner img-responsive"  width="400" height="400">
-                    <span class="imagebox-desc">Hawan Samagri</span>
-                </a>
-            </div>
-        </div>
-        <div class="col-lg-6">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/hawan/YOGI%20HAWAN%20SAMAGRI%20500%20GMS%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Hawan Samagri</span>
-                </a>
-            </div>
-        </div>
-
+<div class="w3-row-padding">
+    <div class="w3-container w3-third">
+        <img src="images/hawan/FRESH%20AND%20NATURAL%20HAWAN%20SAMAGRI.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity"><h2>Natural Hawan Samagri</h2>
+    </div>
+    <div class="w3-container w3-third">
+        <img src="images/hawan/YOGI%20HAWAN%20SAMAGRI%20500%20GMS%20PACK.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity "><h2>Hawan Samagri - 500gms</h2>
     </div>
 
-
 </div>
+
+<div id="modal01" class="w3-modal" onclick="this.style.display='none'">
+    <span class="w3-button w3-hover-red w3-xlarge w3-display-topright">&times;</span>
+    <div class="w3-modal-content w3-animate-zoom">
+        <img id="img01" style="width:100%">
+    </div>
+</div>
+
+<script>
+    function onClick(element) {
+        document.getElementById("img01").src = element.src;
+        document.getElementById("modal01").style.display = "block";
+    }
+</script>
 
 
 &nbsp

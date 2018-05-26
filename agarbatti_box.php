@@ -57,121 +57,98 @@
         <li class="page-item"><a class="page-link" href="agar_metal.php">Mettalic</a></li>
     </ul>
 </nav>
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/box/black/1%20BINDAS%20BOX%20150%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="400">
-                    <span class="imagebox-desc">Bindas Box - 150 gms</span>
-                </a>
-            </div>
-        </div>
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/box/black/2%20DHUADHAR%20BOX%20150%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="400">
-                    <span class="imagebox-desc">Dhuadhar Box - 150 gms</span>
-                </a>
-            </div>
-        </div>
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/box/black/3%20YOGI%20BOX%20200%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="400">
-                    <span class="imagebox-desc">Yogi Box - 200 gms</span>
-                </a>
-            </div>
-        </div>
+   </head>
+
+
+<body>
+<div class="w3-row-padding">
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/box/black/1%20BINDAS%20BOX%20150%20GMS%20PACK.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity">
+        <h2>Bindas Box - 150gms</h2>
+
+    </div>
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/box/black/2%20DHUADHAR%20BOX%20150%20GMS%20PACK%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity">
+        <h2>Dhuadhar Box - 150gms</h2>
+    </div>
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/box/black/3%20YOGI%20BOX%20200%20GMS%20PACK.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity">
+        <h2>Yogi Box - 200gms</h2>
     </div>
 </div>
-&nbsp
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/box/black/6%20NAMASTE%20INDIA%20BOX%2090%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="400">
-                    <span class="imagebox-desc">Namaste India - 90 gms</span>
-                </a>
-            </div>
-        </div>
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/box/black/10%20YOGI%20BOX%2030%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="400">
-                    <span class="imagebox-desc">Yogi Box - 30 gms</span>
-                </a>
-            </div>
-        </div>
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/box/black/11%20NAMASTE%20INDIA%20BOX%2030%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="400">
-                    <span class="imagebox-desc">Namaste India - 30 gms</span>
-                </a>
-            </div>
-        </div>
+<div class="w3-row-padding">
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/box/black/4%20HE%20RAM%20BOX%2060%20GMS%20PACK.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity">
+        <h2>He Ram Box - 60gms</h2>
+    </div>
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/box/black/5%20DHUADHAR%20BOX%2050%20GMS%20PACK.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity"><h2>Dhuadhar Box - 50gms</h2>
+    </div>
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/box/black/6%20NAMASTE%20INDIA%20BOX%2090%20GMS%20PACK%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity"><h2>Namaste India - 90gms</h2>
     </div>
 </div>
-&nbsp
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/box/black/13%20NAMASTE%20INDIA%20BOX12%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="400">
-                    <span class="imagebox-desc">Namaste India - 12 gms</span>
-                </a>
-            </div>
-        </div>
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/box/black/14%20YOGI%20BOX%2012%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="400">
-                    <span class="imagebox-desc">Yogi Box - 12 gms</span>
-                </a>
-            </div>
-        </div>
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/box/black/15%20BINDAS%20BOX%2012%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="400">
-                    <span class="imagebox-desc">Bindas Box - 12 gms</span>
-                </a>
-            </div>
-        </div>
+<div class="w3-row-padding">
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/box/black/7%20HE%20RAM%20BOX%2025%20GMS%20PACK%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity"><h2>He Ram Box - 25gms</h2>
+    </div>
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/box/black/8%20BINDAS%20BOX%2025%20GMS%20PACK%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity"><h2>Bindax Box - 25gms</h2>
+    </div>
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/box/black/9%20SHIV%20MAHIMA%20BOX%2030%20GMS%20PACK%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity"><h2>Shiv Mahima - 30gms</h2>
     </div>
 </div>
-&nbsp
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/box/black/4%20HE%20RAM%20BOX%2060%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="200" height="500">
-                    <span class="imagebox-desc">He Ram - 65 gms</span>
-                </a>
-            </div>
-        </div>
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/box/black/5%20DHUADHAR%20BOX%2050%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="400" >
-                    <span class="imagebox-desc">Dhuadhar Box - 50 gms</span>
-                </a>
-            </div>
-        </div>
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/box/black/7%20HE%20RAM%20BOX%2025%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="200" height="500">
-                    <span class="imagebox-desc">He Ram - 25 gms</span>
-                </a>
-            </div>
-        </div>
+<div class="w3-row-padding">
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/box/black/14%20YOGI%20BOX%2012%20GMS%20PACK.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity"><h2>Yogi Box - 12gms</h2>
+    </div>
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/box/black/10%20YOGI%20BOX%2030%20GMS%20PACK%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity"><h2>Yogi Box - 30gms</h2>
+    </div>
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/box/black/11%20NAMASTE%20INDIA%20BOX%2030%20GMS%20PACK%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity"><h2>Namaste India Box - 30gms</h2>
     </div>
 </div>
+<div class="w3-row-padding">
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/box/black/12%20SHIV%20MAHIMA%20BOX%2012%20GMS%20PACK%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity"><h2>Shiv Mahima Box - 12gms</h2>
+    </div>
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/box/black/13%20NAMASTE%20INDIA%20BOX12%20GMS%20PACK.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity "><h2>Namaste India Box - 12gms</h2>
+    </div>
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/box/black/15%20BINDAS%20BOX%2012%20GMS%20PACK%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity"><h2>Bindas Box - 12gms</h2>
+    </div>
+</div>
+<div id="modal01" class="w3-modal" onclick="this.style.display='none'">
+    <span class="w3-button w3-hover-red w3-xlarge w3-display-topright">&times;</span>
+    <div class="w3-modal-content w3-animate-zoom">
+        <img id="img01" style="width:100%">
+    </div>
+</div>
+
+<script>
+    function onClick(element) {
+        document.getElementById("img01").src = element.src;
+        document.getElementById("modal01").style.display = "block";
+    }
+</script>
 &nbsp
 &nbsp
 <?php include 'footer.php'?>

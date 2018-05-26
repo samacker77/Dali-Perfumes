@@ -59,39 +59,40 @@
 </nav>
 <div class="container-fluid">
 
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/zipper/rich/1-RICH%20FEEL%2070-%20MRP.jpg"  class="category-banner img-responsive" width="200" height="400">
-                    <span class="imagebox-desc">Richfeel</span>
-                </a>
-            </div>
+    <div class="w3-row-padding">
+        <div class="w3-container w3-third">
+            <img src="images/agarbatti/zipper/rich/1-RICH%20FEEL%2070-%20MRP%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+                 onclick="onClick(this)" class="w3-hover-opacity"><h2>Rich Feel</h2>
         </div>
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/zipper/rich/2-CONFIDENCE%2070-%20MRP.jpg"  class="category-banner img-responsive" width="200" height="400">
-                    <span class="imagebox-desc">Confidence</span>
-                </a>
-            </div>
+        <div class="w3-container w3-third">
+            <img src="images/agarbatti/zipper/rich/2-CONFIDENCE%2070-%20MRP%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+                 onclick="onClick(this)" class="w3-hover-opacity "><h2>Confidence</h2>
         </div>
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/zipper/rich/3-LYCHEE%20FRESH%2070-%20MRP.jpg"  class="category-banner img-responsive" width="200" height="400">
-                    <span class="imagebox-desc">Lychee</span>
-                </a>
-            </div>
+        <div class="w3-container w3-third">
+            <img src="images/agarbatti/zipper/rich/3-LYCHEE%20FRESH%2070-%20MRP%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+                 onclick="onClick(this)" class="w3-hover-opacity"><h2>Lycee Fresh</h2>
         </div>
     </div>
-</div>
-&nbsp
+    <div class="w3-row-padding">
+        <div class="w3-container w3-third">
+            <img src="images/agarbatti/zipper/twin/4%20KESAR%20140%20GM%20PACK%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+                 onclick="onClick(this)" class="w3-hover-opacity"><h2>Kesar - 140gms</h2>
+        </div>
 
-<style>
+    </div>
+    <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
+        <span class="w3-button w3-hover-red w3-xlarge w3-display-topright">&times;</span>
+        <div class="w3-modal-content w3-animate-zoom">
+            <img id="img01" style="width:100%">
+        </div>
+    </div>
 
-</style>
+    <script>
+        function onClick(element) {
+            document.getElementById("img01").src = element.src;
+            document.getElementById("modal01").style.display = "block";
+        }
+    </script>
 &nbsp
 &nbsp
 <?php include 'footer.php'?>

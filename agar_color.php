@@ -47,7 +47,7 @@
     }
 </style>
 <div class="container-fluid main">
-    <h1 class="display-3" style="text-align: center">Agarbatti</h1>
+    <h1 class="display-3" style="text-align: center">Agarbatti Colorful</h1>
     &nbsp
 </div>
 &nbsp
@@ -61,63 +61,54 @@
         <li class="page-item"><a class="page-link" href="agar_metal.php">Mettalic</a></li>
     </ul>
 </nav>
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/box/colorful/1%20HIMALAY%20ROSE%20BOX%2016%20GMS%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Rose</span>
-                </a>
-            </div>
-        </div>
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/box/colorful/2%20HIMALAY%20SANDAL%20BOX%2016%20GMS%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Sandal</span>
-                </a>
-            </div>
-        </div>
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/box/colorful/3%20JALWA%20BOX%2016%20GMS%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Jalwa</span>
-                </a>
-            </div>
-        </div>
+<div class="w3-row-padding">
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/box/colorful/1%20HIMALAY%20ROSE%20BOX%2016%20GMS%20PACK.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity">
+        <h2>Himalay Rose - 16gms</h2>
+
+    </div>
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/box/colorful/2%20HIMALAY%20SANDAL%20BOX%2016%20GMS%20PACK%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity">
+        <h2>Himalay Sandal Box - 16gms</h2>
+    </div>
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/box/colorful/3%20JALWA%20BOX%2016%20GMS%20PACK%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity">
+        <h2>Jalwa Box - 16gms</h2>
     </div>
 </div>
-&nbsp
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/box/colorful/4%20HIGHLIGHT%20BOX%2016%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="400">
-                    <span class="imagebox-desc">Highlight - 16 gm</span>
-                </a>
-            </div>
-        </div>
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/box/colorful/5%20NAMASTE%20INDIA%20BOX%2016%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="400">
-                    <span class="imagebox-desc">Namaste India - 16 gm</span>
-                </a>
-            </div>
-        </div>
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/box/colorful/6%20GOA%20BOX%2016%20GMS%20PACK.jpg"  class="category-banner img-responsive" width="400">
-                    <span class="imagebox-desc">Goa - 16 gm</span>
-                </a>
-            </div>
-        </div>
+<div class="w3-row-padding">
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/box/colorful/4%20HIGHLIGHT%20BOX%2016%20GMS%20PACK.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity">
+        <h2>Highlight Box - 16gms</h2>
+    </div>
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/box/colorful/5%20NAMASTE%20INDIA%20BOX%2016%20GMS%20PACK%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity"><h2>Namaste India Box - 16gms</h2>
+    </div>
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/box/colorful/6%20GOA%20BOX%2016%20GMS%20PACK%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity"><h2>Goa Box - 16gms</h2>
     </div>
 </div>
+
+</div>
+<div id="modal01" class="w3-modal" onclick="this.style.display='none'">
+    <span class="w3-button w3-hover-red w3-xlarge w3-display-topright">&times;</span>
+    <div class="w3-modal-content w3-animate-zoom">
+        <img id="img01" style="width:100%">
+    </div>
+</div>
+
+<script>
+    function onClick(element) {
+        document.getElementById("img01").src = element.src;
+        document.getElementById("modal01").style.display = "block";
+    }
+</script>
 
 &nbsp
 &nbsp

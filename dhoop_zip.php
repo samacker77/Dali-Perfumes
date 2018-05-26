@@ -56,45 +56,40 @@
         <li class="page-item  disabled"><a class="page-link" href="dhoop_zip.php">Zipper Packs</a></li>
     </ul>
 </nav>
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-lg-6">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/dhoop/zipper/1%20HIGHLIGHT%20DHOOP%20ZIPPER%2035-%20MRP.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Highlight - 20 sticks</span>
-                </a>
-            </div>
-        </div>
-        <div class="col-lg-6">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/dhoop/zipper/2%20SANDAL%20DHOOP%20ZIPPER%2035-%20MRP.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Sandal - 20 sticks</span>
-                </a>
-            </div>
-        </div>
-    </div>&nbsp
-    <div class="row">
-        <div class="col-lg-6">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/dhoop/zipper/3%20LOBAN%20DHOOP%20ZIPPER%2035-%20MRP.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Loban - 20 sticks</span>
-                </a>
-            </div>
-        </div>
-        <div class="col-lg-6">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/dhoop/zipper/4%20ROSE%20DHOOP%20ZIPPER%2035-%20MRP.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Rose - 20 sticks</span>
-                </a>
-            </div>
-        </div>
+<div class="w3-row-padding">
+    <div class="w3-container w3-third">
+        <img src="images/dhoop/zipper/1%20HIGHLIGHT%20DHOOP%20ZIPPER%2035-%20MRP%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity"><h2>Highlight Dhoop Zipper Pack</h2>
+    </div>
+    <div class="w3-container w3-third">
+        <img src="images/dhoop/zipper/2%20SANDAL%20DHOOP%20ZIPPER%2035-%20MRP%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity "><h2>Sandal Dhoop Zipper</h2>
+    </div>
+    <div class="w3-container w3-third">
+        <img src="images/dhoop/zipper/3%20LOBAN%20DHOOP%20ZIPPER%2035-%20MRP%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity"><h2>Loban Dhoop Zipper Pack</h2>
+    </div>
+</div>
+<div class="w3-row-padding">
+    <div class="w3-container w3-third">
+        <img src="images/dhoop/zipper/4%20ROSE%20DHOOP%20ZIPPER%2035-%20MRP%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity"><h2>Rose Dhoop Zipper Pack</h2>
+    </div>
+
+</div>
+<div id="modal01" class="w3-modal" onclick="this.style.display='none'">
+    <span class="w3-button w3-hover-red w3-xlarge w3-display-topright">&times;</span>
+    <div class="w3-modal-content w3-animate-zoom">
+        <img id="img01" style="width:100%">
     </div>
 </div>
 
+<script>
+    function onClick(element) {
+        document.getElementById("img01").src = element.src;
+        document.getElementById("modal01").style.display = "block";
+    }
+</script>
 
 
 &nbsp

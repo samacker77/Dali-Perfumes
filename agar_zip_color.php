@@ -55,90 +55,66 @@
         </li>
         <li class="page-item disabled"><a class="page-link" href="agar_zip_color.php">Colorful</a></li>
         <li class="page-item"><a class="page-link" href="agar_zip_twin.php">Twin Pack</a></li>
+        <li class="page-item"><a class="page-link" href="agar_rich.php">Rich Collection</a></li>
     </ul>
 </nav>
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/zipper/colorful/1M%20MOOD%20FRESH%20500%20GM%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Mood Fresh</span>
-                </a>
-            </div>
-        </div>
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/zipper/colorful/1N%20NEW%20GENERATION%20500%20GM%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Generation</span>
-                </a>
-            </div>
-        </div>
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/zipper/colorful/1O%20SARVA%20GUN%20500%20GM%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Sarvgun</span>
-                </a>
-            </div>
-        </div>
-    </div>&nbsp
-    <div class="row">
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/zipper/colorful/1Q%20HE%20RAM%20400%20GM%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Hey Ram - 400 gm</span>
-                </a>
-            </div>
-        </div>
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/zipper/colorful/1W%20HE%20RAM%20140%20GM%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Hey Ram - 150 gm</span>
-                </a>
-            </div>
-        </div>
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/zipper/colorful/2C%20JALWA%20140%20GM%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Jalwa - 150 gm</span>
-                </a>
-            </div>
-        </div>
-    </div>&nbsp
-    <div class="row">
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/zipper/colorful/2D%20MOOD%20FRESH%20140%20GM%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Mood Fresh - 150 gm</span>
-                </a>
-            </div>
-        </div>
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/zipper/colorful/2E%20NEW%20GENERATION%20140%20GM%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Generation - 150 gm</span>
-                </a>
-            </div>
-        </div>
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/agarbatti/zipper/colorful/2F%20SARVA%20GUN%20140%20GM%20PACK.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Sarvagun - 150 gm</span>
-                </a>
-            </div>
-        </div>
+<div class="w3-row-padding">
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/zipper/colorful/1M%20MOOD%20FRESH%20500%20GM%20PACK%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity"><h2>Mood Fresh - 500gms</h2>
     </div>
-
-
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/zipper/colorful/1N%20NEW%20GENERATION%20500%20GM%20PACK%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity "><h2>New Gen - 500gms</h2>
+    </div>
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/zipper/colorful/1O%20SARVA%20GUN%20500%20GM%20PACK%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity"><h2>Sarv Gun - 500gms</h2>
+    </div>
 </div>
+<div class="w3-row-padding">
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/zipper/colorful/1Q%20HE%20RAM%20400%20GM%20PACK%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity"><h2>He Ram - 400 gms</h2>
+    </div>
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/zipper/colorful/1W%20HE%20RAM%20140%20GM%20PACK%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity "><h2>He Ram - 140gms</h2>
+    </div>
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/zipper/colorful/2C%20JALWA%20140%20GM%20PACK%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity "><h2>Jalwa - 140gms</h2>
+    </div>
+</div>
+<div class="w3-row-padding">
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/zipper/colorful/2D%20MOOD%20FRESH%20140%20GM%20PACK%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity"><h2>Mood Refresh - 140 gms</h2>
+    </div>
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/zipper/colorful/2E%20NEW%20GENERATION%20140%20GM%20PACK%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity "><h2>New Gen- 140gms</h2>
+    </div>
+    <div class="w3-container w3-third">
+        <img src="images/agarbatti/zipper/colorful/2F%20SARVA%20GUN%20140%20GM%20PACK%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity "><h2>Sarva Gun - 140gms</h2>
+    </div>
+</div>
+<div id="modal01" class="w3-modal" onclick="this.style.display='none'">
+    <span class="w3-button w3-hover-red w3-xlarge w3-display-topright">&times;</span>
+    <div class="w3-modal-content w3-animate-zoom">
+        <img id="img01" style="width:100%">
+    </div>
+</div>
+
+<script>
+    function onClick(element) {
+        document.getElementById("img01").src = element.src;
+        document.getElementById("modal01").style.display = "block";
+    }
+</script>
+
+
 
 
 &nbsp

@@ -56,80 +56,58 @@
         <li class="page-item"><a class="page-link" href="dhoop_zip.php">Zipper Packs</a></li>
     </ul>
 </nav>
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/dhoop/wet/1%20HIGHLIGHT%20DHOOP%2015-%20MRP.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Highlight</span>
-                </a>
-            </div>
-        </div>
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/dhoop/wet/2%20HIMALAY%20LOBAN%2015-MRP.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Himalaya - Loban</span>
-                </a>
-            </div>
-        </div>
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/dhoop/wet/3%20HIMALAY%20SANDAL_15.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Himalaya - Sandal</span>
-                </a>
-            </div>
-        </div>
-    </div>&nbsp
-    <div class="row">
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/dhoop/wet/4%20HIMALAY%20ROSE%2015-MRP.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Himalaya - Rose</span>
-                </a>
-            </div>
-        </div>
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/dhoop/wet/5%20HIGHLIGHT%208-%20MRP.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Highlight - </span>
-                </a>
-            </div>
-        </div>
-        <div class="col-lg-4">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/dhoop/wet/6%20HIMALAY%20LOBAN%208-%20MRP.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Himalaya - Loban</span>
-                </a>
-            </div>
-        </div>
-    </div>&nbsp
-    <div class="row">
-        <div class="col-lg-6">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/dhoop/wet/7%20HIMALAY%20SANDAL%208%20MRP.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Himalaya - Sandal</span>
-                </a>
-            </div>
-        </div>
-        <div class="col-lg-6">
-            <div class="imagebox">
-                <a href="#hola">
-                    <img src="images/dhoop/wet/8%20HIMALAY%20ROSE%208-%20MRP.jpg"  class="category-banner img-responsive"  width="200" height="400">
-                    <span class="imagebox-desc">Himalaya - Rose</span>
-                </a>
-            </div>
-        </div>
+<div class="w3-row-padding">
+    <div class="w3-container w3-third">
+        <img src="images/dhoop/wet/1%20HIGHLIGHT%20DHOOP%2015-%20MRP%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity"><h2>Highlight</h2>
+    </div>
+    <div class="w3-container w3-third">
+        <img src="images/dhoop/wet/2%20HIMALAY%20LOBAN%2015-MRP%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity "><h2>Himalay Loban</h2>
+    </div>
+    <div class="w3-container w3-third">
+        <img src="images/dhoop/wet/3%20HIMALAY%20SANDAL_15%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity"><h2>Himalay Sandal</h2>
+    </div>
+</div>
+<div class="w3-row-padding">
+    <div class="w3-container w3-third">
+        <img src="images/dhoop/wet/4%20HIMALAY%20ROSE%2015-MRP%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity"><h2>Himalay Rose</h2>
+    </div>
+    <div class="w3-container w3-third">
+        <img src="images/dhoop/wet/5%20HIGHLIGHT%208-%20MRP%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity"><h2>Highlight</h2>
+    </div>
+    <div class="w3-container w3-third">
+        <img src="images/dhoop/wet/6%20HIMALAY%20LOBAN%208-%20MRP%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity"><h2>Himalay Loban</h2>
     </div>
 
-
 </div>
+<div class="w3-row-padding">
+    <div class="w3-container w3-third">
+        <img src="images/dhoop/wet/7%20HIMALAY%20SANDAL%208%20MRP%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity"><h2>Himalay Sandal</h2>
+    </div>
+    <div class="w3-container w3-third">
+        <img src="images/dhoop/wet/8%20HIMALAY%20ROSE%208-%20MRP%20copy.jpg" style="width:70%;height: 70%;cursor:pointer"
+             onclick="onClick(this)" class="w3-hover-opacity"><h2>Himalay Rose</h2>
+    </div>
+</div>
+<div id="modal01" class="w3-modal" onclick="this.style.display='none'">
+    <span class="w3-button w3-hover-red w3-xlarge w3-display-topright">&times;</span>
+    <div class="w3-modal-content w3-animate-zoom">
+        <img id="img01" style="width:100%">
+    </div>
+</div>
+
+<script>
+    function onClick(element) {
+        document.getElementById("img01").src = element.src;
+        document.getElementById("modal01").style.display = "block";
+    }
+</script>
 
 
 &nbsp
